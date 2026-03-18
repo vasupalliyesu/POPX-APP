@@ -10,7 +10,7 @@ function Login(){
 
     const handleLogin=()=>{
         if(email&&password){
-              navigate("/Account");
+              navigate("/account");
         }
 
     };
