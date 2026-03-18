@@ -4,7 +4,7 @@ import Login from './pages/Login';
 import Regiser from './pages/Register';
 import Account from './pages/Account';
 import "bootstrap-icons/font/bootstrap-icons.css";
-import axios from 'axios';
+
 
 function App(){
   return(
